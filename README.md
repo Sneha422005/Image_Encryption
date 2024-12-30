@@ -64,5 +64,19 @@ This key is critical for decrypting the image.
 - Ensure the same key is used for both encryption and decryption.  
 - The process relies on the integrity of the key file; losing it will make decryption impossible.  
 
+## Example
+![input_image](input_image.jpg "Input Image")  
+
+
+- **Encrytpted Image**:
+
+
+   ![encrypted image](encrypted_image.jpg "Encrypted Image")  
+
+- **Decrypted Image**:
+
+
+  ![decrypted image](decrypted_image.jpg "Decrypted Image")  
+
 
 
